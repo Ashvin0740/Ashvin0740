@@ -1,4 +1,4 @@
-### Hello Everyone,I'M Ashvin-[Ashvin0740] [website]👋
+### Hello Everyone,I'M Ashvin-aka [Ashvin0740] [website]👋
 ##
 
 <!--
@@ -9,6 +9,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning  java.
 - ⚡ Fun fact: l love watching Movie 👀 And learn programing Language
 -->
+### Connect with me:
+
+[<img align="left" alt="Ashvin | Instagram" width="22px" src="https://www.instagram.com/?hl=en" />][instagram]
 
 
 
