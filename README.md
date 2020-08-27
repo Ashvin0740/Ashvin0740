@@ -11,5 +11,4 @@ Here are some ideas to get you started:
 -->
 
 
-### Connect with me:
-[<img align="left" alt="Ashvin | Instagram" width="22px" src="https://www.instagram.com/?hl=en" />][instagram]
+
