@@ -39,12 +39,18 @@
 [<img align="left" alt="GitHub" width="26px" target="_blank" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github]
 <br />
 <br /> 
+*To know more about me visit my [portfolio](https://Akash52.github.io/)*
 
-<!-- # Github Stats
+![Akash github stats](https://github-readme-stats.vercel.app/api?username=Ashvin0740&show_icons=true&hide=["issues"])
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" /> -->
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashvin0740&&show_icons=true)
 
-<!-- 
+
+ # Github Stats
+
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ashvin0740&show_icons=true&hide_border=true" /> -->
+
+
 [website]: https://codeSTACKr.com-->
 [twitter]: https://twitter.com/AshvinVanol
 <!-- [youtube]: https://youtube.com/codeSTACKr -->
