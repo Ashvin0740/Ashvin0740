@@ -39,7 +39,7 @@
 [<img align="left" alt="GitHub" width="26px" target="_blank" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github]
 <br />
 <br /> 
-*To know more about me visit my [portfolio](https://Akash52.github.io/)*
+
 
 ![Akash github stats](https://github-readme-stats.vercel.app/api?username=Ashvin0740&show_icons=true&hide=["issues"])
 
