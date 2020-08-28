@@ -40,6 +40,10 @@
 [<img align="left" alt="GitHub" width="26px" target="_blank" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github]
 
 [<img align="left" alt="java" width="26px" target="_blank" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png" />][java]
+
+[<img align="left" alt="php" width="26px" target="_blank" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/php/php.png" />][php]
+
+[<img align="left" alt="python" width="26px" target="_blank" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />][python]
 <br />
 <br /> 
 
@@ -64,7 +68,8 @@
 [data]: https://github.com/Ashvin0740/college-leave-management-system
 [sql]: https://github.com/Ashvin0740/college-leave-management-system
 [java]: https://github.com/Ashvin0740/java-program
-
+[php]: https://github.com/Ashvin0740/MyPHP
+[python]: https://github.com/Ashvin0740/Python
 
 
 
