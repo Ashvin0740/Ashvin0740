@@ -19,7 +19,6 @@
 [<img align="left" alt="Ashvin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Ashvin | LinkedIn" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<img align="left" alt="Ashvin | email" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email.svg" />
 
 
 <br />
