@@ -46,10 +46,6 @@
 ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashvin0740&&show_icons=true)
 
 
- # Github Stats
-
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ashvin0740&show_icons=true&hide_border=true" /> -->
-
 
 [website]: https://codeSTACKr.com-->
 [twitter]: https://twitter.com/AshvinVanol
