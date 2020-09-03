@@ -12,9 +12,9 @@
 <br/>
 
 
-![Akash github stats](https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&hide=["issues"])
+![Ashvin github stats](https://github-readme-stats.vercel.app/api?username=Ashvin0740&show_icons=true&hide=["issues"])
 
-![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash52&&show_icons=true)
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashvin0740&&show_icons=true)
 
 
 ### Connect with me:
