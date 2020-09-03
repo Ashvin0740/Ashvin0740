@@ -35,8 +35,8 @@
 </a>
 
 
-<!--[<img align="left" alt="codeSTACKr | Instagram" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!--[<img align="left" alt="Ashvin | Instagram" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
+[<img align="left" alt="ashvin" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Ashvin | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
 [<img align="left" alt="Ashvin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Ashvin | LinkedIn" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]-->
@@ -44,6 +44,7 @@
 
 
 <br />
+
 
 ### Languages and Tools:
 
@@ -77,8 +78,11 @@
 <br />
 <br /> 
 
+*To know more about me visit my [portfolio](https://Ashvin0740.github.io/)*
+![Ashvin github stats](https://github-readme-stats.vercel.app/api?username=Ashvin0740&show_icons=true&hide=["issues"])
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashvin0740&&show_icons=true)
 
-![Ashvin's github stats](https://github-readme-stats.vercel.app/api?username=Ashvin0740&show_icons=true&hide=["issues"])
+
 
 
 
