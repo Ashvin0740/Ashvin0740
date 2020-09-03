@@ -51,10 +51,6 @@
 
 
 
-![Ashvin github stats](https://github-readme-stats.vercel.app/api?username=Ashvin0740&show_icons=true&hide=["issues"])
-
-![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashvin0740&&show_icons=true)
-
 
 
 
