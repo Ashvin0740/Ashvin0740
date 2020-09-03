@@ -9,6 +9,13 @@
 - 🥅 2020 Goals: Devlop my self to best programer
 - ⚡ Fun fact: I love playing games and lerning programing language.
 
+<br/>
+
+
+![Akash github stats](https://github-readme-stats.vercel.app/api?username=Akash52&show_icons=true&hide=["issues"])
+
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash52&&show_icons=true)
+
 
 ### Connect with me:
 
