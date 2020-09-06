@@ -64,52 +64,31 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="java" width="30px" target="_blank" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png" />][java]
 
-
-[<img align="left" alt="HTML5" width="30px" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-
-[<img align="left" alt="CSS3" width="30px" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-
-
-
-[<img align="left" alt="JavaScript" width="30px" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-
-<img align="left" alt="Visual Studio Code" target="_blank" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-
-[<img align="left" alt="python" width="30px" target="_blank" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />][python]
-
-[<img align="left" alt="php" width="30px" target="_blank" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/php/php.png" />][php]
-
-[<img align="left" alt="SQL" width="30px" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][data]
-
-[<img align="left" alt="MySQL" width="30px" target="_blank"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][sql]
-
-[<img align="left" alt="GitHub" width="30px" target="_blank" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github]
-
-
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="35" src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="35" src="https://www.adobe.com/content/dam/cc/icons/xd.svg"></code>
+<code><img height="35" src="https://cdn.worldvectorlogo.com/logos/invision-studio-3.svg"></code>
+<code><img height="35" src="https://banner2.cleanpng.com/20180427/zce/kisspng-figma-user-interface-design-designer-logo-apps-design-5ae2b107507599.2852510515248058953296.jpg"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="35" src="https://code.visualstudio.com/assets/updates/1_35/logo-stable.png"></code>
+<code><img height="35" src="https://www.kindpng.com/picc/m/25-255595_icon-android-studio-logo-hd-png-download.png"></code>
+<code><img height="35" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png"></code>
+<code><img height="35" src="https://static.dribbble.com/users/528264/screenshots/3140440/firebase_logo.png"></code>
+<code><img height="35" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/085/square_280/firebaselogo.png"></code>
 
 
 <br />
 <br /> 
 
-<!--[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/AshvinVanol
- [youtube]: https://youtube.com/codeSTACKr 
-[instagram]: https://www.instagram.com/?hl=en 
-[linkedin]: https://www.linkedin.com/feed/-->
-<!-- <--[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4--> 
-[Github]: https://github.com/Ashvin0740
-[html]: https://github.com/Ashvin0740/html
-[css]:https://github.com/Ashvin0740/college-leave-management-system
-[jsplaylist]: https://github.com/Ashvin0740/college-leave-management-system
-[data]: https://github.com/Ashvin0740/college-leave-management-system
-[sql]: https://github.com/Ashvin0740/college-leave-management-system
-[java]: https://github.com/Ashvin0740/java-program
-[php]: https://github.com/Ashvin0740/MyPHP
-[python]: https://github.com/Ashvin0740/Python
+
 
 
 
