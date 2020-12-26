@@ -47,14 +47,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-AshvinVanol-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/AshvinVanol)](https://twitter.com/AshvinVanol)
 [![Instagram Badge](https://img.shields.io/badge/-AshvinVanol-deeppink?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/ashuu_vanol_44/)](https://www.instagram.com/ashuu_vanol_44/)
 [![facebook Badge](https://img.shields.io/badge/-AshvinVanol-blue?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/ashvin.vanol.900)](https://www.facebook.com/ashvin.vanol.900)
-
-<!--[<img align="left" alt="Ashvin | Instagram" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
-[<img align="left" alt="ashvin" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Ashvin | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
-[<img align="left" alt="Ashvin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Ashvin | LinkedIn" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]-->
-
-
+[![github Badge](https://img.shields.io/badge/-AshvinVanol-black?style=flat&logo=github&logoColor=white&link=https://github.com/Ashvin0740)](https://github.com/Ashvin0740)
 
 <br />
 
@@ -64,15 +57,12 @@
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="35" src="https://www.kindpng.com/picc/m/25-255595_icon-android-studio-logo-hd-png-download.png"></code>
 
