@@ -44,8 +44,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-AshvinVanol-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashvin-vanol-aa63531b0/)](https://www.linkedin.com/in/ashvin-vanol-aa63531b0/)
 [![Gmail Badge](https://img.shields.io/badge/-AshvinVanol-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ashvinvanol44@gmail.com)](mailto:ashvinvanol44@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-AshvinVanol-deeppink?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/ashuu_vanol_44/)](https://www.instagram.com/ashuu_vanol_44/)
 [![Twitter Badge](https://img.shields.io/badge/-AshvinVanol-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/AshvinVanol)](https://twitter.com/AshvinVanol)
+[![Instagram Badge](https://img.shields.io/badge/-AshvinVanol-deeppink?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/ashuu_vanol_44/)](https://www.instagram.com/ashuu_vanol_44/)
 [![facebook Badge](https://img.shields.io/badge/-AshvinVanol-blue?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/ashvin.vanol.900)](https://www.facebook.com/ashvin.vanol.900)
 
 <!--[<img align="left" alt="Ashvin | Instagram" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
