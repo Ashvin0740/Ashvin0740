@@ -5,9 +5,6 @@
 ## I'm a Student!
 
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Devlop my self to best programer
-- ⚡ Fun fact: I love playing games and lerning programing language.
 
 <br/>
 
