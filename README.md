@@ -39,14 +39,14 @@
 </a>
 -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-AshvinVanol-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashvin-vanol-aa63531b0/)](https://www.linkedin.com/in/ashvin-vanol-aa63531b0/)
-[![Gmail Badge](https://img.shields.io/badge/-AshvinVanol-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ashvinvanol44@gmail.com)](mailto:ashvinvanol44@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-AshvinVanol-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/AshvinVanol)](https://twitter.com/AshvinVanol)
-[![Instagram Badge](https://img.shields.io/badge/-AshvinVanol-deeppink?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/ashuu_vanol_44/)](https://www.instagram.com/ashuu_vanol_44/)
-[![facebook Badge](https://img.shields.io/badge/-AshvinVanol-blue?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/ashvin.vanol.900)](https://www.facebook.com/ashvin.vanol.900)
-[![github Badge](https://img.shields.io/badge/-AshvinVanol-black?style=flat&logo=github&logoColor=white&link=https://github.com/Ashvin0740)](https://github.com/Ashvin0740)
-[![hackerrank Badge](https://img.shields.io/badge/-AshvinVanol-weight?style=flat&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/18it_ashvin_van1)](https://www.hackerrank.com/18it_ashvin_van1)
-[![sololearn Badge](https://img.shields.io/badge/-AshvinVanol-darkorchid?style=flat&logo=sololearn&logoColor=white&link=https://www.sololearn.com/Profile/17970909)](https://www.sololearn.com/Profile/17970909)
+[![Linkedin Badge](https://img.shields.io/badge/-Linckedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashvin-vanol-aa63531b0/)](https://www.linkedin.com/in/ashvin-vanol-aa63531b0/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ashvinvanol44@gmail.com)](mailto:ashvinvanol44@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/AshvinVanol)](https://twitter.com/AshvinVanol)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-deeppink?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/ashuu_vanol_44/)](https://www.instagram.com/ashuu_vanol_44/)
+[![facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/ashvin.vanol.900)](https://www.facebook.com/ashvin.vanol.900)
+[![github Badge](https://img.shields.io/badge/-Github-black?style=flat&logo=github&logoColor=white&link=https://github.com/Ashvin0740)](https://github.com/Ashvin0740)
+[![hackerrank Badge](https://img.shields.io/badge/-Hackerrank-weight?style=flat&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/18it_ashvin_van1)](https://www.hackerrank.com/18it_ashvin_van1)
+[![sololearn Badge](https://img.shields.io/badge/-sololearn-darkorchid?style=flat&logo=sololearn&logoColor=white&link=https://www.sololearn.com/Profile/17970909)](https://www.sololearn.com/Profile/17970909)
 <br />
 
 ### Languages and Tools:
