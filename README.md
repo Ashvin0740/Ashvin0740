@@ -46,7 +46,7 @@
 [![facebook Badge](https://img.shields.io/badge/-AshvinVanol-blue?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/ashvin.vanol.900)](https://www.facebook.com/ashvin.vanol.900)
 [![github Badge](https://img.shields.io/badge/-AshvinVanol-black?style=flat&logo=github&logoColor=white&link=https://github.com/Ashvin0740)](https://github.com/Ashvin0740)
 [![hackerrank Badge](https://img.shields.io/badge/-AshvinVanol-weight?style=flat&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/18it_ashvin_van1)](https://www.hackerrank.com/18it_ashvin_van1)
-
+[![sololearn Badge](https://img.shields.io/badge/-AshvinVanol-darkorchid?style=flat&logo=sololearn&logoColor=white&link=https://www.sololearn.com/Profile/17970909)](https://www.sololearn.com/Profile/17970909)
 <br />
 
 ### Languages and Tools:
