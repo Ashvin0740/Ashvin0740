@@ -30,6 +30,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
   <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"> 
     <img alt="JAVA" src="https://img.shields.io/badge/java%20-%9900559java.svg?&style=for-the-badge&logo=java&logoColor=rad"> 
+    <img alt="c language " src="https://img.shields.io/badge/c%20-%231572E6.svg?&style=for-the-badge&logo=c&logoColor=gray"> 
+
 <!--
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
